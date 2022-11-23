@@ -21,6 +21,4 @@ My colleague used to use the cartridge type, but switched to the liquid type bec
 
 I have no particular problem because I use an import agent from [China vape factory](https://ecigator.com/) to buy them, but it seems to be difficult to buy them in Japan.
 
-[SimpleWebNavigation](https://github.com/KrunkZhou/SimpleWebNavigation)
-
 I'd like to try various types of e-cigarettes now that the new heated type e-cigarettes have appeared.
